@@ -1,0 +1,11 @@
+/Users/pochocosta/Projects/PatronMetodoFabrica/PatronMetodoFabrica/bin/Debug/netcoreapp3.1/PatronMetodoFabrica
+/Users/pochocosta/Projects/PatronMetodoFabrica/PatronMetodoFabrica/bin/Debug/netcoreapp3.1/PatronMetodoFabrica.deps.json
+/Users/pochocosta/Projects/PatronMetodoFabrica/PatronMetodoFabrica/bin/Debug/netcoreapp3.1/PatronMetodoFabrica.runtimeconfig.json
+/Users/pochocosta/Projects/PatronMetodoFabrica/PatronMetodoFabrica/bin/Debug/netcoreapp3.1/PatronMetodoFabrica.runtimeconfig.dev.json
+/Users/pochocosta/Projects/PatronMetodoFabrica/PatronMetodoFabrica/bin/Debug/netcoreapp3.1/PatronMetodoFabrica.dll
+/Users/pochocosta/Projects/PatronMetodoFabrica/PatronMetodoFabrica/bin/Debug/netcoreapp3.1/PatronMetodoFabrica.pdb
+/Users/pochocosta/Projects/PatronMetodoFabrica/PatronMetodoFabrica/obj/Debug/netcoreapp3.1/PatronMetodoFabrica.csprojAssemblyReference.cache
+/Users/pochocosta/Projects/PatronMetodoFabrica/PatronMetodoFabrica/obj/Debug/netcoreapp3.1/PatronMetodoFabrica.AssemblyInfoInputs.cache
+/Users/pochocosta/Projects/PatronMetodoFabrica/PatronMetodoFabrica/obj/Debug/netcoreapp3.1/PatronMetodoFabrica.AssemblyInfo.cs
+/Users/pochocosta/Projects/PatronMetodoFabrica/PatronMetodoFabrica/obj/Debug/netcoreapp3.1/PatronMetodoFabrica.dll
+/Users/pochocosta/Projects/PatronMetodoFabrica/PatronMetodoFabrica/obj/Debug/netcoreapp3.1/PatronMetodoFabrica.pdb

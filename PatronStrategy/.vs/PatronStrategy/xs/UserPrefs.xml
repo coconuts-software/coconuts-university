@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{9AF46D72-EE68-412E-BC22-80344E75FF3C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PatronStrategy/ICompresorStrategy.cs">
+    <Files>
+      <File FileName="PatronStrategy/Program.cs" Line="11" Column="63" />
+      <File FileName="PatronStrategy/Compresor.cs" Line="19" Column="2" />
+      <File FileName="PatronStrategy/ICompresorStrategy.cs" Line="7" Column="2" />
+      <File FileName="PatronStrategy/CompresorZip.cs" Line="7" Column="53" />
+      <File FileName="PatronStrategy/CompresorRar.cs" Line="7" Column="42" />
+      <File FileName="PatronStrategy/Compresor7z.cs" Line="7" Column="41" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PatronStrategy" expanded="True">
+            <Node name="PatronStrategy" expanded="True">
+              <Node name="ICompresorStrategy.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.PatronStrategy PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

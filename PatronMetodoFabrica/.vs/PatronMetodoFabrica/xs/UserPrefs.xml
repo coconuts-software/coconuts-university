@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{B18C68F8-ED92-40A8-8AE8-CF94D17FA059}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PatronMetodoFabrica/GerenteRRHH.cs">
+    <Files>
+      <File FileName="PatronMetodoFabrica/Program.cs" Line="10" Column="35" />
+      <File FileName="PatronMetodoFabrica/GerenteDesarrollo.cs" Line="1" Column="1" />
+      <File FileName="PatronMetodoFabrica/GerenteMarketing.cs" Line="1" Column="1" />
+      <File FileName="PatronMetodoFabrica/GerenteRRHH.cs" Line="9" Column="21" />
+      <File FileName="PatronMetodoFabrica/IEntrevistador.cs" Line="1" Column="1" />
+      <File FileName="PatronMetodoFabrica/Developer.cs" Line="1" Column="1" />
+      <File FileName="PatronMetodoFabrica/EmpleadoMarketing.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PatronMetodoFabrica" expanded="True">
+            <Node name="PatronMetodoFabrica" expanded="True">
+              <Node name="GerenteRRHH.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.PatronMetodoFabrica PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

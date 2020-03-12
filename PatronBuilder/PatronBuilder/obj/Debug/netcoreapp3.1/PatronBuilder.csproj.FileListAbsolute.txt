@@ -1,0 +1,11 @@
+/Users/pochocosta/Projects/PatronBuilder/PatronBuilder/bin/Debug/netcoreapp3.1/PatronBuilder
+/Users/pochocosta/Projects/PatronBuilder/PatronBuilder/bin/Debug/netcoreapp3.1/PatronBuilder.deps.json
+/Users/pochocosta/Projects/PatronBuilder/PatronBuilder/bin/Debug/netcoreapp3.1/PatronBuilder.runtimeconfig.json
+/Users/pochocosta/Projects/PatronBuilder/PatronBuilder/bin/Debug/netcoreapp3.1/PatronBuilder.runtimeconfig.dev.json
+/Users/pochocosta/Projects/PatronBuilder/PatronBuilder/bin/Debug/netcoreapp3.1/PatronBuilder.dll
+/Users/pochocosta/Projects/PatronBuilder/PatronBuilder/bin/Debug/netcoreapp3.1/PatronBuilder.pdb
+/Users/pochocosta/Projects/PatronBuilder/PatronBuilder/obj/Debug/netcoreapp3.1/PatronBuilder.csprojAssemblyReference.cache
+/Users/pochocosta/Projects/PatronBuilder/PatronBuilder/obj/Debug/netcoreapp3.1/PatronBuilder.AssemblyInfoInputs.cache
+/Users/pochocosta/Projects/PatronBuilder/PatronBuilder/obj/Debug/netcoreapp3.1/PatronBuilder.AssemblyInfo.cs
+/Users/pochocosta/Projects/PatronBuilder/PatronBuilder/obj/Debug/netcoreapp3.1/PatronBuilder.dll
+/Users/pochocosta/Projects/PatronBuilder/PatronBuilder/obj/Debug/netcoreapp3.1/PatronBuilder.pdb

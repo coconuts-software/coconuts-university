@@ -1,0 +1,11 @@
+/Users/pochocosta/Projects/PatronBridge/PatronBridge/bin/Debug/netcoreapp3.1/PatronBridge
+/Users/pochocosta/Projects/PatronBridge/PatronBridge/bin/Debug/netcoreapp3.1/PatronBridge.deps.json
+/Users/pochocosta/Projects/PatronBridge/PatronBridge/bin/Debug/netcoreapp3.1/PatronBridge.runtimeconfig.json
+/Users/pochocosta/Projects/PatronBridge/PatronBridge/bin/Debug/netcoreapp3.1/PatronBridge.runtimeconfig.dev.json
+/Users/pochocosta/Projects/PatronBridge/PatronBridge/bin/Debug/netcoreapp3.1/PatronBridge.dll
+/Users/pochocosta/Projects/PatronBridge/PatronBridge/bin/Debug/netcoreapp3.1/PatronBridge.pdb
+/Users/pochocosta/Projects/PatronBridge/PatronBridge/obj/Debug/netcoreapp3.1/PatronBridge.csprojAssemblyReference.cache
+/Users/pochocosta/Projects/PatronBridge/PatronBridge/obj/Debug/netcoreapp3.1/PatronBridge.AssemblyInfoInputs.cache
+/Users/pochocosta/Projects/PatronBridge/PatronBridge/obj/Debug/netcoreapp3.1/PatronBridge.AssemblyInfo.cs
+/Users/pochocosta/Projects/PatronBridge/PatronBridge/obj/Debug/netcoreapp3.1/PatronBridge.dll
+/Users/pochocosta/Projects/PatronBridge/PatronBridge/obj/Debug/netcoreapp3.1/PatronBridge.pdb

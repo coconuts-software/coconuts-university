@@ -1,0 +1,11 @@
+/Users/pochocosta/Projects/PatronStrategy/PatronStrategy/bin/Debug/netcoreapp3.1/PatronStrategy
+/Users/pochocosta/Projects/PatronStrategy/PatronStrategy/bin/Debug/netcoreapp3.1/PatronStrategy.deps.json
+/Users/pochocosta/Projects/PatronStrategy/PatronStrategy/bin/Debug/netcoreapp3.1/PatronStrategy.runtimeconfig.json
+/Users/pochocosta/Projects/PatronStrategy/PatronStrategy/bin/Debug/netcoreapp3.1/PatronStrategy.runtimeconfig.dev.json
+/Users/pochocosta/Projects/PatronStrategy/PatronStrategy/bin/Debug/netcoreapp3.1/PatronStrategy.dll
+/Users/pochocosta/Projects/PatronStrategy/PatronStrategy/bin/Debug/netcoreapp3.1/PatronStrategy.pdb
+/Users/pochocosta/Projects/PatronStrategy/PatronStrategy/obj/Debug/netcoreapp3.1/PatronStrategy.csprojAssemblyReference.cache
+/Users/pochocosta/Projects/PatronStrategy/PatronStrategy/obj/Debug/netcoreapp3.1/PatronStrategy.AssemblyInfoInputs.cache
+/Users/pochocosta/Projects/PatronStrategy/PatronStrategy/obj/Debug/netcoreapp3.1/PatronStrategy.AssemblyInfo.cs
+/Users/pochocosta/Projects/PatronStrategy/PatronStrategy/obj/Debug/netcoreapp3.1/PatronStrategy.dll
+/Users/pochocosta/Projects/PatronStrategy/PatronStrategy/obj/Debug/netcoreapp3.1/PatronStrategy.pdb

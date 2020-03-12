@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{59433C9D-DCDF-4F62-A115-545CD52E6E05}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PatronBuilder/Program.cs">
+    <Files>
+      <File FileName="PatronBuilder/Chef.cs" Line="1" Column="1" />
+      <File FileName="PatronBuilder/IBuilder.cs" Line="1" Column="1" />
+      <File FileName="PatronBuilder/AyudanteCarne.cs" Line="1" Column="1" />
+      <File FileName="PatronBuilder/AyudanteChoclo.cs" Line="1" Column="1" />
+      <File FileName="PatronBuilder/AyudanteVerdura.cs" Line="14" Column="44" />
+      <File FileName="PatronBuilder/Empanada.cs" Line="13" Column="31" />
+      <File FileName="PatronBuilder/IRelleno.cs" Line="1" Column="1" />
+      <File FileName="PatronBuilder/IRepulgue.cs" Line="1" Column="1" />
+      <File FileName="PatronBuilder/RellenoCarne.cs" Line="1" Column="1" />
+      <File FileName="PatronBuilder/RepulgueChoclo.cs" Line="1" Column="1" />
+      <File FileName="PatronBuilder/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PatronBuilder" expanded="True">
+            <Node name="PatronBuilder" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.PatronBuilder PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

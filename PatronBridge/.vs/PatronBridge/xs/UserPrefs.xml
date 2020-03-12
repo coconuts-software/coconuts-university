@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{A55E611D-0950-4866-BF2D-26FF581A27F1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PatronBridge/Home.cs">
+    <Files>
+      <File FileName="PatronBridge/Program.cs" Line="9" Column="49" />
+      <File FileName="PatronBridge/AcercaDe.cs" />
+      <File FileName="PatronBridge/ITema.cs" />
+      <File FileName="PatronBridge/Contacto.cs" />
+      <File FileName="PatronBridge/Home.cs" Line="10" Column="17" />
+      <File FileName="PatronBridge/TemaOscuro.cs" />
+      <File FileName="PatronBridge/TemaClaro.cs" />
+      <File FileName="PatronBridge/IPaginaWeb.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PatronBridge" expanded="True">
+            <Node name="PatronBridge" expanded="True">
+              <Node name="Home.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.PatronBridge PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
