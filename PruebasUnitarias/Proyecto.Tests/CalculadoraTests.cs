@@ -4,46 +4,34 @@ using Xunit;
 
 namespace Proyecto.Tests
 {
-    public class ReservaTests
+    public class CalculadoraTests
     {
-        [Fact]
-        public void PuedeSerCanceladaPor_Admin_DevuelveVerdadero()
+        [Theory]
+        [InlineData(4, 3, 7)]
+        [InlineData(21, 5.25, 26.25)]
+        public void Sumar_ValoresSimples_DeberiaCalcularBien(double x, double y, double esperado)
         {
             // Arrange
-            var reserva = new Reserva();
 
             // Act
-            var resultado = reserva.PuedeSerCanceladaPor(new User { EsAdmin = true });
+            double resultado = Calculadora.Sumar(x, y);
 
             // Assert
-            Assert.True(resultado);
+            Assert.Equal(esperado, resultado);
         }
 
-        [Fact]
-        public void PuedeSerCanceladaPor_MismoUsuarioReserva_DevuelveVerdadero()
-        {
-            // Arrange
-            var usuario = new User();
-            var reserva = new Reserva { HechaPor = usuario };
-
-            // Act
-            var resultado = reserva.PuedeSerCanceladaPor(usuario);
-
-            // Assert
-            Assert.True(resultado);
-        }
 
         [Fact]
-        public void PuedeSerCanceladaPor_DistintoUsuarioReserva_DevuelveFalso()
+        public void Dividir_PorCero_DevuelveCero()
         {
             // Arrange
-            var reserva = new Reserva { HechaPor = new User() };
+            double esperado = 0;
 
             // Act
-            var resultado = reserva.PuedeSerCanceladaPor(new User());
+            double resultado = Calculadora.Dividir(5, 0);
 
             // Assert
-            Assert.False(resultado);
+            Assert.Equal(esperado, resultado);
         }
     }
 }
