@@ -3,11 +3,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{DB6EC92D-E6F6-40DD-9488-8228E2D0D272}</ProjectGuid>
+    <ProjectGuid>{DAF7ED75-B20A-4352-93F2-F843CE02ECF5}</ProjectGuid>
     <ProjectTypeGuids>{786C830F-07A1-408B-BD7F-6EE04809D6DB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
-    <RootNamespace>PruebasUnitarias</RootNamespace>
-    <AssemblyName>PruebasUnitarias</AssemblyName>
+    <RootNamespace>Refactoring</RootNamespace>
+    <AssemblyName>Refactoring</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <TargetFrameworkProfile>Profile111</TargetFrameworkProfile>
   </PropertyGroup>
@@ -27,17 +27,12 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Reserva.cs" />
+    <Compile Include="Animal.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Calculadora.cs" />
-    <Compile Include="Automovil.cs" />
-    <Compile Include="Alumno.cs" />
-    <Compile Include="Repository\IDataRepository.cs" />
-    <Compile Include="Repository\RepositorioReal.cs" />
-    <Compile Include="Repository\RepositorioFalso.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Repository\" />
+    <Compile Include="Clase.cs" />
+    <Compile Include="Mamifero.cs" />
+    <Compile Include="Pajaro.cs" />
+    <Compile Include="Reptil.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\Portable\$(TargetFrameworkVersion)\Microsoft.Portable.CSharp.targets" />
 </Project>

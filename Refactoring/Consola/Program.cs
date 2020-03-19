@@ -1,4 +1,5 @@
 ﻿using System;
+using Refactoring;
 
 namespace Consola
 {
@@ -6,7 +7,8 @@ namespace Consola
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var mamifero = new Pajaro();
+            Console.WriteLine(mamifero.ObtenerPiel());
         }
     }
 }

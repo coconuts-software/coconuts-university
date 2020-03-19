@@ -1,10 +1,11 @@
 ﻿using System;
 namespace Refactoring
 {
-    public class Mamifero
+    public class Mamifero : Animal
     {
-        public Mamifero()
+        public override string ObtenerPiel()
         {
+            return "Pelo";
         }
     }
 }

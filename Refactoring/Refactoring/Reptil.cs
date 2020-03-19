@@ -1,10 +1,11 @@
 ﻿using System;
 namespace Refactoring
 {
-    public class Reptil
+    class Reptil : Animal
     {
-        public Reptil()
+        public override string ObtenerPiel()
         {
+            return "Escamas";
         }
     }
 }
