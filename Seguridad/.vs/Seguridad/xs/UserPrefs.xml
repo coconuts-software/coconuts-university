@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{468A29AB-61BD-4CB7-90C9-D134D80D367E}|Seguridad">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Seguridad/Models/UserLogin.cs">
+    <Files>
+      <File FileName="Seguridad/WeatherForecast.cs" Line="1" Column="1" />
+      <File FileName="Seguridad/Controllers/WeatherForecastController.cs" Line="28" Column="20" />
+      <File FileName="Seguridad/Startup.cs" Line="37" Column="70" />
+      <File FileName="Seguridad/Controllers/LoginController.cs" Line="20" Column="43" />
+      <File FileName="Seguridad/Models/UserLogin.cs" Line="9" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Seguridad" expanded="True">
+            <Node name="Seguridad.API" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="UserLogin.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Seguridad.API PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/pochocosta/Projects/coconuts-university/Seguridad/Seguridad/Controllers/LoginController.cs" relfile="Seguridad/Controllers/LoginController.cs" line="22" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
