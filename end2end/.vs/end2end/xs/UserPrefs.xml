@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{3CD138CE-E539-4895-A156-930A768991EA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="end2end/cypress/integration/prueba_spec.js">
+    <Files>
+      <File FileName="end2end/cypress/integration/prueba_spec.js" Line="36" Column="1" />
+      <File FileName="end2end/cypress.json" Line="1" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="end2end" expanded="True">
+            <Node name="end2end" expanded="True">
+              <Node name="cypress" expanded="True">
+                <Node name="integration" expanded="True">
+                  <Node name="prueba_spec.js" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.end2end PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
