@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{C8C1602E-F9BA-4844-8179-1ABE467E9A31}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HolaMundoX/MainPage.xaml.cs">
+    <Files>
+      <File FileName="HolaMundoX/MainPage.xaml" Line="6" Column="61" />
+      <File FileName="HolaMundoX/MainPage.xaml.cs" Line="28" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HolaMundoX" expanded="True">
+            <Node name="HolaMundoX.iOS" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.HolaMundoX.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.2C9119A2-D656-4671-B7EA-89ED3250297B" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.HolaMundoX.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

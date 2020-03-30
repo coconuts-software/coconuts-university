@@ -1,0 +1,14 @@
+/Users/pochocosta/Projects/coconuts-university/HolaMundoX/HolaMundoX/bin/Debug/netstandard2.0/HolaMundoX.deps.json
+/Users/pochocosta/Projects/coconuts-university/HolaMundoX/HolaMundoX/bin/Debug/netstandard2.0/HolaMundoX.dll
+/Users/pochocosta/Projects/coconuts-university/HolaMundoX/HolaMundoX/bin/Debug/netstandard2.0/ref/HolaMundoX.dll
+/Users/pochocosta/Projects/coconuts-university/HolaMundoX/HolaMundoX/bin/Debug/netstandard2.0/HolaMundoX.pdb
+/Users/pochocosta/Projects/coconuts-university/HolaMundoX/HolaMundoX/obj/Debug/netstandard2.0/HolaMundoX.csprojAssemblyReference.cache
+/Users/pochocosta/Projects/coconuts-university/HolaMundoX/HolaMundoX/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/pochocosta/Projects/coconuts-university/HolaMundoX/HolaMundoX/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/pochocosta/Projects/coconuts-university/HolaMundoX/HolaMundoX/obj/Debug/netstandard2.0/HolaMundoX.csproj.CoreCompileInputs.cache
+/Users/pochocosta/Projects/coconuts-university/HolaMundoX/HolaMundoX/obj/Debug/netstandard2.0/HolaMundoX.AssemblyInfoInputs.cache
+/Users/pochocosta/Projects/coconuts-university/HolaMundoX/HolaMundoX/obj/Debug/netstandard2.0/HolaMundoX.AssemblyInfo.cs
+/Users/pochocosta/Projects/coconuts-university/HolaMundoX/HolaMundoX/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/pochocosta/Projects/coconuts-university/HolaMundoX/HolaMundoX/obj/Debug/netstandard2.0/HolaMundoX.dll
+/Users/pochocosta/Projects/coconuts-university/HolaMundoX/HolaMundoX/obj/Debug/netstandard2.0/ref/HolaMundoX.dll
+/Users/pochocosta/Projects/coconuts-university/HolaMundoX/HolaMundoX/obj/Debug/netstandard2.0/HolaMundoX.pdb

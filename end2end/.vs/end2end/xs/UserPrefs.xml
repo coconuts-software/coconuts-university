@@ -2,7 +2,7 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="end2end/cypress/integration/prueba_spec.js">
     <Files>
       <File FileName="end2end/cypress/integration/prueba_spec.js" Line="36" Column="1" />
-      <File FileName="end2end/cypress.json" Line="1" Column="2" />
+      <File FileName="end2end/cypress.json" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
