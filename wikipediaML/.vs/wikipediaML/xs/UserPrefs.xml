@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{81C6C69A-C32C-460A-AB2E-22AD811D6AC7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="wikipediaML/Program.cs">
+    <Files>
+      <File FileName="wikipediaML/Program.cs" Line="26" Column="1" />
+      <File FileName="wikipediaML/ModelInput.cs" Line="11" Column="50" />
+      <File FileName="wikipediaML/ModelOutput.cs" Line="8" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="wikipediaML" expanded="True">
+            <Node name="wikipediaML" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Data" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.wikipediaML PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

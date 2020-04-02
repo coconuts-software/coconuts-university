@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{060D7CE7-3201-4402-AF2F-B769B79419D6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="precioTaxiML/Program.cs">
+    <Files>
+      <File FileName="precioTaxiML/Program.cs" Line="98" Column="10" />
+      <File FileName="precioTaxiML/DataStructures/TaxiTripFarePrediction.cs" />
+      <File FileName="precioTaxiML/DataStructures/TestTaxiTrips.cs" />
+      <File FileName="precioTaxiML/ConsoleHelper.cs" />
+      <File FileName="precioTaxiML/Data/taxi-fare-test.csv" Line="100001" Column="24" />
+      <File FileName="precioTaxiML/DataStructures/TaxiTrip.cs" Line="27" Column="33" />
+      <File FileName="precioTaxiML/Data/taxi-fare-train.csv" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="precioTaxiML" expanded="True">
+            <Node name="precioTaxiML" expanded="True">
+              <Node name="Data" expanded="True" />
+              <Node name="DataStructures" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.precioTaxiML PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
